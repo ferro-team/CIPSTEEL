@@ -1,5 +1,8 @@
 <img src="https://github.com/Komsan74/CIPSTEEL/blob/master/www/img/app-icon.png" width="200" />
 
+# V1.0.5
+ปรับปรุงค่าคงที่ใหม่
+
 # V1.0.4
 - เพิ่ม Line Notify
 - แสดงหมายเลขเวอร์ชั่นไว้ที่ footer
